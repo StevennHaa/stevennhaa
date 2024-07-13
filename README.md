@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevennhaa&label=Profile%20views&color=0e75b6&style=flat" alt="stevennhaa" /> </p>
 
-- 🔭 I’m currently working on **BlackJack App**
+- 🔭 I’m currently working on **BlackJack App & Portfolio App**
 
 - 🌱 I’m currently learning **Swift UI and Data Structure and Algorithm**
 
